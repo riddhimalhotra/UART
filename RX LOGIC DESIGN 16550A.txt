@@ -1,8 +1,3 @@
-//TITLE: RX LOGIC DESIGN 16650A
-//DEVELOPED BY: AASHI SRIVASTAVA
-//DATE-14.01.24
-//-----------------------------------------------------------------------
-
 
 module rx_logic (input clk,rst,rx,sticky_parity,eps,pen,baud_pulse, input [1:0] wls,output reg push,output reg pe,fe,bi);
   
@@ -160,4 +155,5 @@ endmodule
                         
                               
                 
+
   
