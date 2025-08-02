@@ -1,7 +1,4 @@
-//TITLE: RX LOGIC DESIGN 16650A TEST BENCH
-//DEVELOPED BY: AASHI SRIVASTAVA
-//DATE-14.01.24
-//-----------------------------------------------------------------------
+
 
 module uart_rx_tb;
  
@@ -86,4 +83,5 @@ end
  
  
  
+
 endmodule
