@@ -1,7 +1,3 @@
-//TITLE: TX LOGIC DESIGN 16550A
-//DEVELOPED BY: AASHI SRIVASTAVA
-//DATE: 14.01.24
-//-----------------------------------------------------------------------
 
 `timescale 1ns / 1ps
  
